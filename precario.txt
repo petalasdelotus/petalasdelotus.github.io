@@ -1,0 +1,209 @@
+Title: Massagem Relaxante
+Category: Massagem Corporal
+Duration: 45m
+Price: 30€
+Description: A massagem de relaxamento é uma massagem profunda e relaxante, que restabelece o equilíbrio entre o corpo e a mente.
+> 
+Title: Massagem com Velas
+Category: Massagem Corporal
+Duration: 45m
+Price: 35€
+Description: Uma experiência holística que desperta os sentidos (visão, olfato, toque, audição e intuição), através duma vela, óleos vegetais e óleos essenciais, que sendo aquecidos, vão derretendo até ao ponto perfeito para a sua massagem. Morna, super hidratante e relaxante, esta massagem vai desfazer as tensões do dia-a-dia, libertando-o do stress enquanto lhe proporciona uma experiência fantástica de bem-estar.
+> Massagem com Aromaterapia
+Title: Massagem com Aromaterapia
+Category: Massagem Corporal
+Duration: 45m
+Price: 35€
+Description: A massagem de aromaterapia é uma massagem especial que utiliza óleos essenciais 100% puros.
+> 
+Title: Massagem Relaxante com Pedras Quentes
+Category: Massagem Corporal
+Duration: 45m
+Price: 35€
+Description: A massagem de aromaterapia é uma massagem especial que utiliza óleos essenciais 100% puros.
+> 
+Title: Massagem Refirmante
+Category: Tratamento Corporal
+Duration: 1h30m
+Price: 40€
+Description: A massagem refirmante é uma das técnicas empregues para manter a saúde da pele. Este método é indicado para pessoas que querem devolver à pele o seu aspeto firme. A ação deste tratamento consegue atenuar a flacidez, acumulada com o passar dos anos ou por oscilações bruscas de perda de peso.
+> 
+Title: Massagem Modeladora Pernas
+Category: Tratamento Corporal
+Duration: 1h
+Price: 30€
+Description: A gordura localizada geralmente se acumula nas coxas. Para eliminá-la é preciso estimular o organismo e eliminá-las naturalmente. Este tratamento trata apenas pernas com esfoliação, ultra sons e rádio frequência, creme e massagem.
+> 
+Title: Massagem Modeladora
+Category: Tratamento Corporal
+Duration: 1h30m
+Price: 40€
+Description: A gordura localizada geralmente se acumula nas coxas, quadris e barriga. Para eliminá-la é preciso estimular o organismo e eliminá-las naturalmente. Este tratamento trata abdómen e pernas com esfoliação, ultra sons e rádio frequência, creme e massagem.
+> 
+Title: Massagem Redutora Abdominal                                               
+Category: Tratamento Corporal
+Duration: 1h
+Price: 30€
+Description: A massagem indicada para reduzir as medidas corporais, diminuir a retenção de líquidos, reduzir a celulite e a gordura localizada. Este tratamento é apenas abdominal com ultra sons, creme e massagem.
+> 
+Title: Exfoliação Corporal
+Category: Tratamento Corporal
+Duration: 1h
+Price: 40€
+Description: A esfoliação é um tratamento feito com uma mistura de substâncias granulares misturadas ao creme ou óleo com o objetivo de limpar, renovar e hidratar a pele. Ela assegura a remoção da camada mais superficial onde estão as células mortas, o que deixa uma aparência mais suave e lisinha.
+> 
+Title: Massagem Choco Terapia
+Category: Tratamento Corporal
+Duration: 1h
+Price: 40€
+Description: Massagem à base de cacau e gordura de origem vegetal rica em flavonoides, que contribuem para uma boa circulação, ótimo aliado nos procedimentos anti celulite. Pernas e abdómen.
+> 
+Title: Drenagem Linfática Manual   
+Category: Tratamento *******
+Duration: 1h
+Price: 30€
+Description: A drenagem linfática manual é uma técnica de massagem que tem por objetivo estimular o sistema linfático - uma rede complexa de vasos que movem fluidos pelo corpo - a trabalhar de forma mais acelerada. O sistema linfático trabalha como uma terceira circulação, além da arterial e da venosa, e a linfa é o líquido que circula através dessa rede de vasos linfáticos.
+> 
+Title: Massagem para Crianças
+Category: Tratamento Corporal
+Duration: 30m
+Price: A partir de 15€
+Description: A massagem ajuda a acalmar e relaxar as crianças de hoje. Para trazer um grande alívio e prevenção de diversos males, a MASSAGEM aparece como uma alternativa natural e saudável.                                                                                                                        >                                                                                                                                                          Title: Algoterapia                                                                                                
+Category: Tratamento Corporal
+Duration: 2h           
+Price: 65€
+Description: São muitos os benefícios de um envolvimento corporal, começando pelo simples facto de ser uma das formas mais naturais de hidratar e melhorar o aspeto e a textura da pele. Corpo completo com esfoliação, duche e massagem. Este tratamento é acompanhado com manta térmica.
+> 
+Title: Chocoterapia
+Category: Tratamento Corporal
+Duration: 2h
+Price: 65€
+Description: Produto de tratamento que contém ingredientes cosméticos que permitem vivenciar a agradável experiência de sentir o corpo envolvido pela terapia do chocolate com efeito liporedutor e anti celulitico. Corpo completo com esfoliação, duche e massagem. Este tratamento é acompanhado com manta térmica.                                                                                                                                                          > 
+Title: Tratamento Corpo c/ Manta Térmica 
+Category: Tratamento Corporal
+Duration: 2h
+Price: 45€
+Description: O tratamento com a manta de sudação térmica e aromaterapia é desintoxicante para o corpo e revitalizante para a mente! Ideal para quem necessita de desintoxicar, perder peso e ganhar energia. A manta térmica é um elemento indispensável para acabar com a celulite, reduzir medidas, emagrecimento e eliminar a gordura localizada.
+> 
+Title: Gessoterapia
+Category: ********         
+Duration: 1h30m
+Price: 35€
+Description: A principal função do tratamento de gessoterapia é moldar o corpo potenciando o emagrecimento e perda de centímetros. pode ser utilizada nas diferentes partes do corpo.
+> 
+Title: Limpeza de Pele Profunda 
+Category: Tratamento de Rosto
+Duration: 1h30m
+Price: 35€
+Description: Com vapor simples e ozonizado Peeling, extração e alta frequência. Aplicação de ampola adequada ao seu tipo de pele. Máscara hidratante e massagem.
+> 
+Title: Hidratação Facial
+Category: Tratamento de Rosto
+Duration: 1h
+Price: 20€
+Description: Tratamento indicado para todos os tipos de pele que inicia-se com a remoção da maquilhagem, esfoliação para remoção das células mortas, tonificação e máscara hidratante, sendo aconselhável para qualquer idade. Termina com uma massagem que estimula a absorção do creme de conforto extremo para uma nutrição profunda da pele.
+> 
+Title: Máscara de Argila
+Category: Tratamento de Rosto
+Duration: 1h
+Price: 20€
+Description: Apesar de existirem vários tipos, todas têm a capacidade de desintoxicar e de eliminar o excesso de óleo e impurezas da pele. As argilas são ricas em minerais que rejuvenescem a pele e a sua textura esfolia e estimula a microcirculação da pele.
+> 
+Title: Máscara de LED
+Category: Tratamento de Rosto
+Duration: 1h
+Price: 20€
+Description: Após uma limpeza com sabonete e máscara específica para cada tipo de pele, o led é aplicado no rosto, através de combinações de cores que têm efeitos distintos. Alguns exemplos: Led azul: tem efeito bactericida. Trata a acne Led amarelo: estimula o colágeno, a elastina Led Vermelho: tem efeito anti-inflamatório, cicatrizante Led Verde: Atua nas manchas senis e na hiperpigmentação Led Branco: Ativa a circulação sanguínea e linfática.
+> 
+Title: Reflexologia Podal 
+Category: ******
+Duration: 45m
+Price: 20€
+Description: A reflexologia dos pés não pode ser considerada uma massagem básica. Esta massagem promove benefícios de relaxamento e bem estar, é uma técnica que utiliza pressão em pontos específicos. Com escalda pés no início.
+> 
+Title: Detox - Desintoxicação do Organismo
+Category: ******
+Duration: 45m
+Price: 15€
+Description: É uma desintoxicação do organismo: Detox é um tratamento que drena as sobrecargas tóxicas, com melhorias substanciais a nível de colesterol, a nível das transaminases (fígado gordo). Limpar com regularidade o organismo através de descarga do sistema linfático, que por via indireta vai libertar toxinas acumuladas no fígado, é uma das medidas mais importantes para nos mantermos saudáveis. Em processos de emagrecimento, perante sobrecargas medicamentosas, colesterol elevado ou fígado gordo, Detox é excelente.
+> 
+Title: Epilação com Cera 
+Category: ******
+Duration: Duração Variável
+Price: Preço Variável
+Description: odas gostamos da sensação de uma pele lisa e sem pelos e para isso existem vários métodos de depilação. Apesar de não ser um método permanente, a depilação com cera é um método rápido e eficaz.
+> 
+Title: Epilação das Sobrancelhas
+Category: Epilação
+Duration: Variável        
+Price: Variável
+Description: Epilação das sobrancelhas com pinça e cera.
+> 
+Title: Depilação a Laser Díodo     
+Category: Epilação
+Duration: Variável
+Price: ***** 
+Description: A depilação a laser díodo é um dos métodos mais eficazes para eliminar os pelos de forma definitiva e sem dor.
+> 
+Title: Laser para Fungos e Micoses 
+Category: ******
+Duration: Variável
+Price: Variável
+Description: A onicomicose, infeção fúngica das unhas, é uma patologia que se manifesta através da perda de coloração e engrossamento da unha, podendo produzir-se e destruição da lâminha ungueal. Na maioria dos casos é causada por dermatófitos, podendo também ser causada por leveduras (Candida) e fungos não dermatófitos (mofos).
+> 
+Title: Lifting de Pestanas com Botox
+Category: *****
+Duration: 1h30m
+Price: 35€
+Description: Tratamento seguro e indolor que alonga, dá volume e curvatura as suas pestanas.
+> 
+Title: Threading - Sobrancelhas
+Category: ******
+Duration: 1h
+Price: 9£
+Description: A depilação com linha é uma técnica de depilação temporária, que consiste em apenas utilizar um fio 100% de algodão.
+> 
+Title: Verniz de Gel 
+Category: Manicure
+Duration: Variável
+Price: 13,50€
+Description: Verniz de gel com manicura russa.
+> 
+Title: Gel sobre Unhas
+Category: Manicure
+Duration: Variável  
+Price: 18,50€
+Description: Gel sobre unhas com manicura russa.
+> 
+Title: Unhas com Extensão
+Category: Manicure
+Duration: Variável
+Price: 25€
+Description: Aplicação de unhas com extensão.
+> 
+Title: Pedicure
+Category: *****
+Duration: Variável  
+Price: 15€
+Description: Pedicure com manicura russa.
+> 
+Title: Terapia Reiki
+Category: Terapias Holísticas
+Duration: Variável
+Price: 35€
+Description: O Reiki é uma terapia alternativa, destinada a equilibrar a energia vital do corpo, alma e espírito. Indicada para combater stress, dores, distúrbios emocionais e doenças, com resultados eficientes. Terapeuta Holística e Mestre de Reiki - Márcia Ferreira.
+> 
+Title: Terapia Auricular com Velas Xamânicas 
+Category: Terapias Holísticas
+Duration: Variável
+Price: 35€
+Description: O calor, aplicado no ouvido, estimula a circulação sanguínea, na zona, tonifica o sistema imunitário, o fluxo circulatório limpando as toxinas das glândulas linfáticas. Ajuda a limpar os canais respiratórios, melhora o olfacto, ajuda em casos de sinusite, rinite, zumbidos, otite, alergias, pressão enxaquecas, vertigens. Terapeuta Holística e Mestre de Reiki - Márcia Ferreira.
+
+
+
+
+Hidratação Facial
+1h
+20€
+Tratamento indicado para todos os tipos de pele que inicia-se com a remoção da maquilhagem, esfoliação para remoção das células mortas, tonificação e máscara hidratante, sendo aconselhável para qualquer idade. Termina com uma massagem que estimula a absorção do creme de conforto extremo para uma nutrição profunda da pele.
+
