@@ -691,6 +691,11 @@ header
   display: none;
 }
 
+.row {
+  justify-content: space-between; 
+
+}
+
 .header-area .main-nav .menu-trigger span,
 .header-area .main-nav .menu-trigger span:before,
 .header-area .main-nav .menu-trigger span:after {
@@ -1569,7 +1574,7 @@ contact
 
 #contactos .left-text-content ul li {
   margin-bottom: 30px;
-  margin-right: -50px;
+  margin-right: -50%;
 }
 
 #contactos .left-text-content ul li {

@@ -479,7 +479,10 @@ pre {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin-right: -15px;
-  margin-left: -15px; }
+  margin-left: -15px; 
+}
+
+.
 
 .no-gutters {
   margin-right: 0;
@@ -2138,8 +2141,8 @@ fieldset:disabled a.btn {
   .btn-success:not(:disabled):not(.disabled):active, .btn-success:not(:disabled):not(.disabled).active,
   .show > .btn-success.dropdown-toggle {
     color: #fff;
-    background-color: #1e7e34;
-    border-color: #1c7430; }
+    background-color: white;
+    border-color: white; }
     .btn-success:not(:disabled):not(.disabled):active:focus, .btn-success:not(:disabled):not(.disabled).active:focus,
     .show > .btn-success.dropdown-toggle:focus {
       -webkit-box-shadow: 0 0 0 0.2rem rgba(72, 180, 97, 0.5);
