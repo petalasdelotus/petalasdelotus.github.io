@@ -483,11 +483,6 @@ header
     
   }
 
-  #about .left-text-content .image-centro img {
-    width:200%;
-    height:auto;
-  }
-
   #about .left-text-content .col-md-12 .main-button-icon {
     text-align: center;
     margin-left:60px;
@@ -1049,6 +1044,7 @@ banner
 .scroll-down a {
   display: inline-block;
   background-image: linear-gradient(145deg, #99f7fa 0%, #fd8de1 100%);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   width: 60px;
   height: 60px;
   text-align: center;
@@ -1199,9 +1195,15 @@ about
 
 #about .image-centro {
   border-radius:5px;
+  width: 94%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-
+.item img {
+  border-radius:5px;
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 /*
 ---------------------------------------------
 features
