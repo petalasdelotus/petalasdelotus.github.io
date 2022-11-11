@@ -191,13 +191,13 @@ Title: Terapia Reiki
 Category: Terapias Holísticas
 Duration: Variável
 Price: 35€
-Description: O Reiki é uma terapia alternativa, destinada a equilibrar a energia vital do corpo, alma e espírito. Indicada para combater stress, dores, distúrbios emocionais e doenças, com resultados eficientes. Terapeuta Holística e Mestre de Reiki - Márcia Ferreira.
+Description: O Reiki é uma terapia alternativa, destinada a equilibrar a energia vital do corpo, alma e espírito. Indicada para combater stress, dores, distúrbios emocionais e doenças, com resultados eficientes. Terapeuta Holística e Mestre de Reiki.
 > 
 Title: Terapia Auricular com Velas Xamânicas 
 Category: Terapias Holísticas
 Duration: Variável
 Price: 35€
-Description: O calor, aplicado no ouvido, estimula a circulação sanguínea, na zona, tonifica o sistema imunitário, o fluxo circulatório limpando as toxinas das glândulas linfáticas. Ajuda a limpar os canais respiratórios, melhora o olfacto, ajuda em casos de sinusite, rinite, zumbidos, otite, alergias, pressão enxaquecas, vertigens. Terapeuta Holística e Mestre de Reiki - Márcia Ferreira.
+Description: O calor, aplicado no ouvido, estimula a circulação sanguínea, na zona, tonifica o sistema imunitário, o fluxo circulatório limpando as toxinas das glândulas linfáticas. Ajuda a limpar os canais respiratórios, melhora o olfacto, ajuda em casos de sinusite, rinite, zumbidos, otite, alergias, pressão enxaquecas, vertigens. Terapeuta Holística e Mestre de Reiki.
 
 
 
