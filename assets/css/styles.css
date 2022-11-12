@@ -108,7 +108,7 @@ ul {
 p {
   font-size: 14px;
   line-height: 25px;
-  color: #777;
+  color: white;
 }
 
 /* 
@@ -529,6 +529,7 @@ header
   
    
   }
+
 
   .marcar h2 {
     padding:0!important;
@@ -1240,53 +1241,101 @@ features
   margin-bottom: 15px;
 }
 
+.marcar {
+  position:relative;
+  padding:50px;
+  width: 75%;
+  height: auto;
+  margin-top: 25%;
+  top: 25%;
+  left: 25%;
+  margin: -100px 0 0 -150px;
+  background: rgba(0,0,0, 0.1);
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  color:white;
+}
 
+body {
+  background: linear-gradient(-45deg, #e73c7e, #f381d3, #23a6d5, #23d2d5);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  height: 100vh;
+}
+
+@keyframes gradient {
+  0% {
+      background-position: 0% 50%;
+  }
+
+  50% {
+      background-position: 100% 50%;
+  }
+
+  100% {
+      background-position: 0% 50%;
+  }
+}
 
 .marcar h2 {
-  padding:10px;
-  margin: 0px 80px 0 80px;
+  padding:0px;
+  
+
   font-size: 40px;
-  line-height: 3;
+  /* line-height: 1; */
   font-weight: 400;
   font-family: "Poppins", Arial, sans-serif;
-  color: #000;
+
   text-align: center !important;
 } 
 
 .marcacao-title h2 {
-  padding:160px 20px 0 20px;
-  font-size:40px;
-  margin-bottom:-60px;
+
   font-weight: 400;
   font-family: "Poppins", Arial, sans-serif;
-  color: #000;
-  text-align:center;
-
 }
 
 .marcar {
-  padding:60px 20px 20px 20px;;
 
   font-weight: 400;
   font-family: "Poppins", Arial, sans-serif;
-  color: #000;
+
   display: flex;
   font-weight: bold;
-  justify-content: center;
+  justify-content: left;
+  
  
+}
+
+.marcar-center {
+  /* background: rgba(black, 0.5); */
 }
  
 .marcar .marcar-left-content  {
   margin-top:30px;
   flex: 1;
   margin-right:70px;
-  vertical-align: top;;
+  vertical-align: top;
 }
 
-.marcar .marcar-left-content  h5 {
-  font-size: 24px!important;
-  text-align: center;
+.marcar .marcar-left-content  p {
+  font-size: 20px!important;
+
+  text-align: left;
   margin-bottom: 60px;
+  margin-top:10%;
+}
+
+.marcar a {
+  color:rgb(255, 216, 248);
+}
+
+.marcar a:hover {
+  color: rgb(250, 149, 233);
+  text-decoration: underline;
+}
+
+.marcar p{
+  font-weight: 250;
 }
 
 .marcar .marcar-left-content .time-title h3 {
@@ -1322,23 +1371,14 @@ features
 }
 
 .marcar ul li:before {
-
   content: '';
-
   display: inline-block;
-
   height: 14px;
-
   width: 22px;
-
-   background-size: 20px;
-
-  background-image: url(../images/LOGO_PETALAS.png);
-
+  background-size: 20px;
+  /* background-image: url(../images/LOGO_PETALAS.png); */
   background-repeat: no-repeat;
-
   margin-right: 5px;
-
 }
 
 
