@@ -66,12 +66,13 @@
   
   .marcar-center {
     /* background: rgba(black, 0.5); */
+
   }
    
   .marcar .marcar-left-content  {
     margin-top:30px;
     flex: 1;
-    margin-right:70px;
+    margin-right:5%;
     vertical-align: top;
     text-align: left;
   }
@@ -95,6 +96,7 @@
   
   .marcar p{
     font-weight: 250;
+    color:white;
   }
   
   .marcar .marcar-left-content .time-title h3 {
@@ -143,11 +145,23 @@
   
   
   .marcar .marcar-right-content {
+
     flex: 1;
+
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    /* height:50%;
+    background-image:url("../images/centro-02.jpg") */
   } 
   
   .marcar .marcar-right-content img {
-    height:700px;
     width:auto;
-    border-radius:8px;
+    border-radius:4px;
+    position:absolute;
+    top:0;
+    right:0;
+    height:100%;
+    max-width: 50%;
+  
   } 
