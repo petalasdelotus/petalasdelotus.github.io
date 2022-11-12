@@ -1652,8 +1652,11 @@ footer
 --------------------------------------------- 
 */
 
-footer {
-  padding: 80px 0px;
+footer  {
+  padding: 70px 0px;
+}
+
+.footer_bg {
   background: linear-gradient(145deg, rgb(137, 251, 255) 0%, rgb(255, 147, 255) 100%);
 }
 
@@ -1681,6 +1684,10 @@ footer .right-text-content ul li {
   display: inline-block;
 }
 
+.footer_bg .right-text-content ul li a{
+  color: rgb(207, 132, 253);
+}
+
 footer .right-text-content ul li a {
   width: 40px;
   height: 40px;
@@ -1690,11 +1697,14 @@ footer .right-text-content ul li a {
   margin-right: 5px;
   background-color: rgba(255, 255, 255, 0.445);
   border-radius: 50%;
-  color: rgb(207, 132, 253);
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
+} 
+
+footer ul li a {
+  color:white;
 }
 
 footer .right-text-content ul li a:hover {
