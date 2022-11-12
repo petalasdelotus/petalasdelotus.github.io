@@ -1654,11 +1654,9 @@ footer
 
 footer  {
   padding: 70px 0px;
-}
-
-.footer_bg {
   background: linear-gradient(145deg, rgb(137, 251, 255) 0%, rgb(255, 147, 255) 100%);
 }
+
 
 footer .left-text-content p {
   color: #fff;
@@ -1684,16 +1682,13 @@ footer .right-text-content ul li {
   display: inline-block;
 }
 
-.footer_bg .right-text-content ul li a{
-  color: rgb(207, 132, 253);
-}
-
 footer .right-text-content ul li a {
   width: 40px;
   height: 40px;
   display: inline-block;
   text-align: center;
   line-height: 40px;
+  color: rgb(207, 132, 253);
   margin-right: 5px;
   background-color: rgba(255, 255, 255, 0.445);
   border-radius: 50%;
