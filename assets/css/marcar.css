@@ -17,7 +17,7 @@
     background: linear-gradient(-45deg, #e73c7e, #f381d3, #23a6d5, #23d2d5);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
-    height: 100vh;
+    /* height: 100vh; */
   }
   
   @keyframes gradient {
@@ -73,6 +73,7 @@
     flex: 1;
     margin-right:70px;
     vertical-align: top;
+    text-align: left;
   }
   
   .marcar .marcar-left-content  p {
@@ -116,9 +117,10 @@
   .marcar ul {
      list-style: none; 
      margin-top:20px;
-    text-indent: 30px;
+
     font-size: 18px;
     font-weight: 300;
+
     } 
   
   .marcar li {
