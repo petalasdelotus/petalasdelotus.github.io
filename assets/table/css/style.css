@@ -482,7 +482,7 @@ pre {
   margin-left: -15px; 
 }
 
-.
+
 
 .no-gutters {
   margin-right: 0;
@@ -8160,7 +8160,7 @@ h1, h2, h3, h4, h5,
   line-height: 3;
   font-weight: 400;
   font-family: "Poppins", Arial, sans-serif;
-  color: #000; }
+  color: white; }
 
 .bg-primary {
   background: #1089ff !important; }
@@ -8184,7 +8184,15 @@ h1, h2, h3, h4, h5,
   background-position: center center; }
 
 .table-wrap {
-  overflow-x: scroll; }
+  overflow-x: scroll; 
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+  
+  
+}
+.table-wrap::-webkit-scrollbar { 
+  display: none;  /* Safari and Chrome */
+}
 
 .table {
   min-width: 1000px !important;
