@@ -35,6 +35,8 @@ Estética Pétalas de Lótus
 
     <link rel="stylesheet" href="assets/css/lightbox.css">
 
+    <link rel="stylesheet" href="assets/css/gallery.css">
+
 
 </head>
 
@@ -76,7 +78,7 @@ Estética Pétalas de Lótus
                                 <ul>
                                     <li><a href="marcacoes">Fazer Marcação</a></li>
                                     <li><a href="precario">Preçário</a></li>
-                                    <li><a href="galeria">Galeria de Fotos</a></li>
+                                    <!-- <li><a href="galeria">Galeria de Fotos</a></li> -->
                                     <!-- <li><a href="duvidas">Dúvidas</a></li> -->
                                 </ul>
                             </li>
@@ -168,13 +170,83 @@ Estética Pétalas de Lótus
                             <h2>Centro de Estética</h2>
                         </div>
                         <div class="row">
-                            <div class="image-centro">
-                                <img src="assets/images/centro.jpg" alt="Centro" height="420" width="540"></div>
-                            <div class="col-md-12">
+                            <!-- <div class="image-centro">
+                                <img src="assets/images/centro.jpg" alt="Centro" height="420" width="540">
+                            </div> -->
+                            <section class="gallery">
+                                    <div class="gallery__item">
+                                        <input type="radio"  checked id="img-1" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="assets/images/galeria_fotos/petalas1.jpg" alt="Centro de Estética" width="540" height="420"/>
+                                        <label for="img-1" class="gallery__thumb"><img src="assets/images/galeria_fotos/petalas1.jpg" alt="Centro" width="200" height="35" /></label>
+                                    </div>
+                                    <div class="gallery__item">
+                                        <input type="radio" id="img-2" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="assets/images/galeria_fotos/petalas2.jpg" alt="Gabinete" width="540" height="420"/>
+                                        <label for="img-2" class="gallery__thumb"><img src="assets/images/galeria_fotos/petalas2.jpg" alt="Gabinete" width="200" height="35"/></label>
+                                    </div>
+                                    <div class="gallery__item">
+                                        <input type="radio" id="img-3" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="assets/images/galeria_fotos/petalas3.jpg" alt="Centro de Estética" width="540" height="420"/>
+                                        <label for="img-3" class="gallery__thumb"><img src="assets/images/galeria_fotos/petalas3.jpg" alt="Centro" width="200" height="35"/></label>
+                                    </div>
+                            
+                                    <div class="gallery__item">
+                                        <input type="radio" id="img-4" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="assets/images/galeria_fotos/petalas4.jpg" alt="Biombo" width="540" height="420"/>
+                                        <label for="img-4" class="gallery__thumb"><img src="assets/images/galeria_fotos/petalas4.jpg" alt="Biombo" width="200" height="35"/></label>
+                                    </div>
+                            
+                                    <div class="gallery__item">
+                                        <input type="radio" id="img-5" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="assets/images/galeria_fotos/petalas5.jpg" alt="Parede" width="540" height="420"/>
+                                        <label for="img-5" class="gallery__thumb"><img src="assets/images/galeria_fotos/petalas5.jpg" alt="Parede" width="200" height="35"/></label>
+                                    </div>
+                         
+                                    <div class="gallery__item">
+                                        <input type="radio"  id="img-6" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="assets/images/galeria_fotos/petalas6.jpg" alt="Sala de Espera do Centro" width="540" height="420"/>
+                                        <label for="img-6" class="gallery__thumb"><img src="assets/images/galeria_fotos/petalas6.jpg" alt="Sala de Espera" width="200" height="35" /></label>
+                                    </div>
+                                    <div class="gallery__item">
+                                        <input type="radio" id="img-7" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="assets/images/galeria_fotos/petalas7.jpg" alt="Sala de Espera do Centro de Estética" width="540" height="420"/>
+                                        <label for="img-7" class="gallery__thumb"><img src="assets/images/galeria_fotos/petalas7.jpg" alt="Sala de Espera do Centro" width="200" height="35"/></label>
+                                    </div>
+                                    <div class="gallery__item">
+                                        <input type="radio" id="img-8" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="assets/images/galeria_fotos/petalas8.jpg" alt="Gabinete de Estética" width="540" height="420"/>
+                                        <label for="img-8" class="gallery__thumb"><img src="assets/images/galeria_fotos/petalas8.jpg" alt="Gabinete" width="200" height="35"/></label>
+                                    </div>
+                            
+                                    <div class="gallery__item">
+                                        <input type="radio" id="img-9" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="assets/images/galeria_fotos/petalas9.jpg" alt="Centro de Estética" width="540" height="420"/>
+                                        <label for="img-9" class="gallery__thumb"><img src="assets/images/galeria_fotos/petalas9.jpg" alt="Parede" width="200" height="35"/></label>
+                                    </div>
+                            
+                                    <div class="gallery__item">
+                                        <input type="radio" id="img-10" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="assets/images/galeria_fotos/petalas10.jpg" alt="Gabinete de Manicure" width="540" height="420"/>
+                                        <label for="img-10" class="gallery__thumb"><img src="assets/images/galeria_fotos/petalas10.jpg" alt="Gabinete de Manicure" width="200" height="35"/></label>
+                                    </div>
+                        
+                                    <div class="gallery__item">
+                                        <input type="radio" id="img-11" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="assets/images/galeria_fotos/petalas11.jpg" alt="Marquesa de Massage" width="540" height="420"/>
+                                        <label for="img-11" class="gallery__thumb"><img src="assets/images/galeria_fotos/petalas11.jpg" alt="Marquesa" width="200" height="35"/></label>
+                                    </div>
+                        
+                                    <div class="gallery__item">
+                                        <input type="radio" id="img-12" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="assets/images/galeria_fotos/petalas12.jpg" alt="Janela do Centro" width="540" height="420"/>
+                                        <label for="img-12" class="gallery__thumb"><img src="assets/images/galeria_fotos/petalas12.jpg" alt="Janela" width="200" height="35"/></label>
+                                    </div>
+                         
+                            <!-- <div class="col-md-12">
                                 <a href="galeria" class="main-button-icon">
                                     Ver Mais Fotos <i class="fa fa-arrow-right"></i>
                                 </a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
