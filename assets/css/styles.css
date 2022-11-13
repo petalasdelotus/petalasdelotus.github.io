@@ -1257,11 +1257,27 @@ subscribe
 
 #subscribe {
   padding: 80px 0px;
-  background-image: url(../images/bg-02.jpg);
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background: linear-gradient(145deg,#196dce, rgb(71, 219, 224), rgb(255, 147, 255),#d33ce7);
+  animation: gradient 15s ease infinite;
+  background-size: 400% 400%;
+  /* background-size: cover; */
+
 }
+  @keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+  
+    50% {
+        background-position: 100% 50%;
+    }
+  
+    100% {
+        background-position: 0% 50%;
+    }
+  }
 
 #subscribe .section-heading {
   text-align: center;
@@ -1317,11 +1333,28 @@ testimonials
   margin-top: 120px;
   padding: 80px 0px;
   padding: 120px 0px;
-  background-image: url(../images/bg-01.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background: linear-gradient(145deg,#196dce, rgb(71, 219, 224), rgb(255, 147, 255),#d33ce7);
+  animation: gradient 15s ease infinite;
+  background-size: 400% 400%;
+  /* background-size: cover; */
+
 }
+  @keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+  
+    50% {
+        background-position: 100% 50%;
+    }
+  
+    100% {
+        background-position: 0% 50%;
+    }
+  }
+
 #testimonials .section-heading {
   text-align: center;
   color: #fff;
