@@ -478,12 +478,12 @@ header
     
   }
 
-  #about .right-text-content p {
+  #sobrenos .right-text-content p {
     display:none;
     
   }
 
-  #about .left-text-content .col-md-12 .main-button-icon {
+  #sobrenos .left-text-content .col-md-12 .main-button-icon {
     text-align: center;
     margin-left:60px;
     margin-top:35px;
@@ -1130,37 +1130,37 @@ about
 ---------------------------------------------
 */
 
-#about {
+#sobrenos {
   padding: 120px 0px 0px 0px;
   position: relative;
   z-index: 9;
 }
 
-#about .container {
+#sobrenos .container {
   border-bottom: 5px solid #f7f7f7;
   padding-bottom: 80px;
 }
 
-#about .section-heading {
+#sobrenos .section-heading {
   margin-bottom: 10px;
 }
 
-#about .section-heading h6 {
+#sobrenos .section-heading h6 {
   color:#686868;
 }
 
-#about .service-item {
+#sobrenos .service-item {
   margin-top: 30px;
 }
 
-#about .service-item img {
+#sobrenos .service-item img {
   float: left;
   margin-right: 15px;
   width: 46px;
   height: 46px;
 }
 
-#about .service-item h4 {
+#sobrenos .service-item h4 {
   font-size: 15px;
   font-weight: 700;
   text-transform: uppercase;
@@ -1168,12 +1168,12 @@ about
   line-height: 46px;
 }
 
-#about a.main-button-icon {
+#sobrenos a.main-button-icon {
   display: inline-block;
   margin-top: 60px;
 }
 
-#about .right-text-content {
+#sobrenos .right-text-content {
   margin-top: 40px;
   text-align:right;
   float:right;
@@ -1181,7 +1181,7 @@ about
 }
 
 
-#about .right-text-content p {
+#sobrenos .right-text-content p {
   font-size: 16px;
   line-height: 27px;
   color: #777;
@@ -1190,11 +1190,11 @@ about
   
 }
 
-#about .intro {
+#sobrenos .intro {
 
 }
 
-#about .image-centro {
+#sobrenos .image-centro {
   border-radius:5px;
   width: 94%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
