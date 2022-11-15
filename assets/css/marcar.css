@@ -1,17 +1,41 @@
 
 .marcar {
-    position:relative;
-    padding:50px;
-    width: 75%;
-    height: auto;
-    margin-top: 25%;
-    top: 25%;
-    left: 25%;
-    margin: -100px 0 0 -150px;
+
     background: rgba(0,0,0, 0.1);
     box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
     color:white;
+  
   }
+
+  @media screen and (min-width: 600px) { /*desktop*/
+    .marcar {
+      position:relative;
+      padding:50px;
+      width: 75%;
+      height: auto;
+      margin-top: 25%;
+      top: 25%;
+      left: 25%;
+      margin: -100px 0 0 -150px;
+    }
+
+  }
+
+  @media screen and (max-width: 600px) { /*mobile*/ 
+    .marcar {
+      padding-top: 20px;
+      padding-bottom: 40px;
+      top:0;
+      left: 0; 
+      right: 0; 
+      margin-left: 0; 
+      margin-right: 0; 
+      width: 100%; /* Need a specific value to work */
+      /* padding : 60px; */
+    }
+
+ 
+}
   
   body {
     background: linear-gradient(-45deg, #e73c7e, #f381d3, #23a6d5, #23d2d5);
