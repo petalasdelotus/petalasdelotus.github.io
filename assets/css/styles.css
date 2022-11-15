@@ -1407,7 +1407,7 @@ testimonials
   top: 0;
   bottom: 0;
   width: 100%;
-  background-color: rgba(255, 95, 242, 0.7);
+  background-color: rgba(255, 138, 245, 0.584);
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.5s ease 0s;
@@ -1435,15 +1435,15 @@ testimonials
 }
 
 #testimonials .item .hover-effect ul li a {
-  width: 120px;
-  height: 32px;
+  width: 140px;
+  height: 40px;
   display: inline-block;
   text-align: center;
-  line-height: 32px;
+  line-height: 40px;
   font-size: 14px;
-  background-color: #fff;
-  border-radius: 5%;
-  color: #4d4d4d;
+  background-color: #9ce5eb87;
+  border-radius: 25px;
+  color: white;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -1451,8 +1451,8 @@ testimonials
 }
 
 #testimonials .item .hover-effect ul li a:hover {
-  color: #fff;
-  background-color: #be6fb8;
+  color: white;
+  background-color: #ff80fb81;
 }
 
 #testimonials .owl-carousel {
@@ -1578,8 +1578,6 @@ contact
   
   
 }
-
-
 
 /* 
 ---------------------------------------------
