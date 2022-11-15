@@ -43,6 +43,7 @@
     .gallery {
       width:100%;
       height:auto;
+      margin:0 15px 0 15px;
     }
 
     .gallery__thumb {
