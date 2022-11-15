@@ -111,6 +111,15 @@ p {
   color: gray;
 }
 
+@media (max-width:600px) {
+  p {
+    margin : 10px;
+  }
+
+ 
+}
+
+
 /* 
 ---------------------------------------------
 global styles
@@ -462,7 +471,7 @@ header
   }
 
   .section-heading h2 {
-    font-size: 34px;
+    font-size: 32px;
     white-space: nowrap;
     text-align: center;
 
@@ -496,9 +505,10 @@ header
   }
 
   #servicos .filters-content .item img {
-    max-width: 485px!important;
-    width:485px!important;
+    max-width: 100%!important;
+    width: 100%!important;
     height:auto; 
+    margin-left: 20%;
   
   }
 
@@ -507,14 +517,16 @@ header
     white-space: nowrap;
     width:120%;
     text-align:center;
+    margin-top:10%;
+    margin-left:10%;
   }
 
   #contactos .container h2 {
-    font-size: 16px;
+    font-size: 15px;
     
   }
   #contactos .container li {
-    font-size: 14px!important;
+    font-size: 10px!important;
     
   }
 
