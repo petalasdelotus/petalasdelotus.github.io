@@ -25,12 +25,32 @@
     font-family: "Poppins", Arial, sans-serif;
   } */
 
-  @media screen and (min-width: 600px) {
+  @media screen and (min-width: 600px) { /*desktop*/
     .gallery {
       padding-top: 75%;
+      
     }
+
   }
-  
+
+  @media screen and (max-width: 600px) { /*mobile*/ 
+    .gallery {
+      padding-top: 75%;
+      
+    }
+
+        
+    .gallery {
+      width:100%;
+      height:auto;
+    }
+
+    .gallery__thumb {
+      width:80%;
+      height:auto;
+      
+  }
+}
   .gallery__img {
     position: absolute;
     top: 0;
@@ -38,12 +58,16 @@
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
     box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    width:100%;
+    height:auto;
   }
   .gallery__thumb {
-    padding-top: 1px;
+    padding-top: 5px;
     margin: 5px;
     display: block;
     box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    width:80%;
+    height:20%;
     
   }
   .gallery__selector {
