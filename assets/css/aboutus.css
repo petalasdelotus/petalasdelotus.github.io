@@ -1,7 +1,7 @@
 
 .row .marcar .container {
     display: flex;
-    margin-left:3%;
+    margin-left:1%;
 
 
   
@@ -19,7 +19,7 @@
 }
   
 .item +  .item {
-    margin-left: 3%;
+    margin-left: 2%;
 }
 
 
@@ -44,10 +44,29 @@
    
 }
 
-.marcar h2 {
-    position:absolute;
-    top:5%;
-    width: 50%;
-    margin: 2% 20% 10% 20%;
 
+
+@media screen and (min-width: 600px) { /*desktop*/
+    .marcar h2 {
+        position:absolute;
+        top:5%;
+        width: 50%;
+        margin: 2% 20% 10% 20%;
+    
+    }
+
+  }
+
+  @media screen and (max-width: 600px) { /*mobile*/ 
+    .marcar h2 {
+        position:absolute;
+        font-size: larger;
+        top:35%;
+        left:25%;
+        width: 50%;
+        margin: 2% 20% 10% 20%;
+    
+    }
+
+ 
 }
