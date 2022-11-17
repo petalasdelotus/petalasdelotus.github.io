@@ -472,9 +472,7 @@ header
 
   .section-heading h2 {
     font-size: 32px;
-    white-space: nowrap;
     text-align: center;
-
   }
 
   .Modern-Slider .text-content a{
@@ -1193,18 +1191,23 @@ about
 }
 
 
+  @media only screen and (max-width: 767px) {
+    #sobrenos .right-text-content {
+      display:none
+    }
+  }
+
+
 #sobrenos .right-text-content p {
   font-size: 16px;
   line-height: 27px;
   color: #777;
   float:right;
-  text-align: left;
+  text-align: right;
   
 }
 
-#sobrenos .intro {
 
-}
 
 #sobrenos .image-centro {
   border-radius:5px;
