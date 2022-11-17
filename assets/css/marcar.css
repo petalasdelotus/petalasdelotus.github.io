@@ -166,13 +166,13 @@
     align-items: center;
   } 
   
-  .marcar .marcar-right-content img {
+  .marcar .marcar-right-content video {
     width:auto;
     border-radius:4px;
     position:absolute;
     top:0;
     right:0;
-    height:100%;
-    max-width: 50%;
+    height:100%; 
+    max-width: 75%;
   
   } 
