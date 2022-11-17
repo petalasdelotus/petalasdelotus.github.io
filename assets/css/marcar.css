@@ -31,6 +31,10 @@
       width: 100%; 
     }
 
+    video {
+      display:none;
+    }
+
  
 }
   
@@ -165,6 +169,8 @@
     flex-direction: column;
     align-items: center;
   } 
+
+  
   
   .marcar .marcar-right-content video {
     width:auto;
