@@ -139,11 +139,11 @@ Duration: Variável
 Price: Variável
 Description: Epilação das sobrancelhas com pinça e cera.
 > 
-Title: Depilação a Laser Díodo     
+Title: Depilação a Laser     
 Category: Epilação
 Duration: Variável
 Price: ***** 
-Description: A depilação a laser díodo é um dos métodos mais eficazes para eliminar os pelos de forma definitiva e sem dor.
+Description: A depilação a laser é um dos métodos mais eficazes para eliminar os pelos de forma definitiva e sem dor.
 > 
 Title: Laser para Fungos e Micoses 
 Category: ******
