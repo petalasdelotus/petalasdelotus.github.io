@@ -199,7 +199,7 @@ const services = [
         name: "Terapia de Bowen",
         category: "Terapias Holísticas",
         duration: "45m",
-        price: "35€",
+        price: "40€",
         description: "A terapia de Bowen é uma terapia manual neuro-estrutural que atua sobre o corpo, através de movimentos simples e precisos, de forma a promover o relaxamento das estruturas e assim aliviar os sintomas como sejam as dores musculares e articulares, inflamações, tendinites e outras queixas musculares, estruturais e viscerais com movimentos suaves de cruzamento de fibras, músculos e tendões favorecem também o fluxo sanguíneo, linfático e energético."
     },
     {
