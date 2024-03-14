@@ -35,7 +35,7 @@ const services = [
         description: "A massagem refirmante é uma das técnicas empregues para manter a saúde da pele. Este método é indicado para pessoas que querem devolver à pele o seu aspeto firme. A ação deste tratamento consegue atenuar a flacidez, acumulada com o passar dos anos ou por oscilações bruscas de perda de peso."
     },
     {
-        name: "Massagem Modeladora de Pernas",
+        name: "Drenante",
         category: "Tratamento de Corpo",
         duration: "1h",
         price: "30€",
@@ -115,7 +115,7 @@ const services = [
         name: "Limpeza de Pele Profunda",
         category: "Tratamento de Rosto",
         duration: "1h30m",
-        price: "20€",
+        price: "40€",
         description: "Tratamento indicado para todos os tipos de pele que inicia-se com a remoção da maquilhagem, esfoliação para remoção das células mortas, tonificação e máscara hidratante, sendo aconselhável para qualquer idade. Termina com uma massagem que estimula a absorção do creme de conforto extremo para uma nutrição profunda da pele."
     },
     {
@@ -164,14 +164,14 @@ const services = [
         name: "Verniz de Gel",
         category: "Manicure/Pedicure",
         duration: "Variável",
-        price: "13,50€",
+        price: "14,50€",
         description: "O verniz de gel é uma técnica que permite que o verniz dure mais tempo nas unhas, sem lascar ou perder o brilho."
     },
     {
         name: "Gel sobre Unhas",
         category: "Manicure/Pedicure",
         duration: "Variável",
-        price: "20€",
+        price: "21€",
         description: "O gel sobre unhas é uma técnica que permite alongar as unhas naturais, dando-lhes um aspeto mais bonito e uniforme."
     },
     {
@@ -185,7 +185,7 @@ const services = [
         name: "Pedicure",
         category: "Manicure/Pedicure",
         duration: "Variável",
-        price: "15€",
+        price: "17€",
         description: "A pedicure é um tratamento estético que consiste em cuidar dos pés e das unhas, retirando as cutículas, lixando as unhas e hidratando os pés."
     },
     {
@@ -213,15 +213,8 @@ const services = [
         name: "Reflexologia Podal",
         category: "Outros",
         duration: "45m",
-        price: "20€",
+        price: "25€",
         description: "A reflexologia dos pés não pode ser considerada uma massagem básica. Esta massagem promove benefícios de relaxamento e bem estar, é uma técnica que utiliza pressão em pontos específicos. Com escalda pés no início."
-    },
-    {
-        name: "Laser para Fungos e Micoses",
-        category: "Outros",
-        duration: "Variável",
-        price: "Variável",
-        description: "A onicomicose, infeção fúngica das unhas, é uma patologia que se manifesta através da perda de coloração e engrossamento da unha, podendo produzir-se e destruição da lâminha ungueal. Na maioria dos casos é causada por dermatófitos, podendo também ser causada por leveduras (Candida) e fungos não dermatófitos (mofos)."
     },
     {
         name: "Gessoterapia",
