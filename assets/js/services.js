@@ -42,7 +42,7 @@ const services = [
         description: "A gordura localizada geralmente se acumula nas coxas. Para eliminá-la é preciso estimular o organismo e eliminá-las naturalmente. Este tratamento trata apenas pernas com esfoliação, ultra sons e rádio frequência, creme e massagem."
     },
     {
-        name: "Massagem Modeladora",
+        name: "Massagem Modeladora", 
         category: "Tratamento de Corpo",
         duration: "1h30m",
         price: "40€",
@@ -101,7 +101,7 @@ const services = [
         name: "Tratamento Corpo c/ Manta Térmica",
         category: "Tratamento de Corpo",
         duration: "2h",
-        price: "45€",
+        price: "65€",
         description: "O tratamento com a manta de sudação térmica e aromaterapia é desintoxicante para o corpo e revitalizante para a mente! Ideal para quem necessita de desintoxicar, perder peso e ganhar energia. A manta térmica é um elemento indispensável para acabar com a celulite, reduzir medidas, emagrecimento e eliminar a gordura localizada."
     },
     {
@@ -110,6 +110,13 @@ const services = [
         duration: "1h",
         price: "40€",
         description: "Máxima eficiência que combina os vários tipos de Radiofrequência com ultra lipocavitação. Gordura localizada, redução de celulite e flacidez, linhas de expressão e rugas."
+    },
+    {
+        name: "Gessoterapia",
+        category: "Tratamento de Corpo",
+        duration: "1h30m",
+        price: "35€",
+        description: "A principal função do tratamento de gessoterapia é moldar o corpo potenciando o emagrecimento e perda de centímetros. pode ser utilizada nas diferentes partes do corpo."
     },
     {
         name: "Limpeza de Pele Profunda",
@@ -164,7 +171,7 @@ const services = [
         name: "Verniz de Gel",
         category: "Manicure/Pedicure",
         duration: "Variável",
-        price: "14,50€",
+        price: "15€",
         description: "O verniz de gel é uma técnica que permite que o verniz dure mais tempo nas unhas, sem lascar ou perder o brilho."
     },
     {
@@ -215,13 +222,6 @@ const services = [
         duration: "45m",
         price: "25€",
         description: "A reflexologia dos pés não pode ser considerada uma massagem básica. Esta massagem promove benefícios de relaxamento e bem estar, é uma técnica que utiliza pressão em pontos específicos. Com escalda pés no início."
-    },
-    {
-        name: "Gessoterapia",
-        category: "Outros",
-        duration: "1h30m",
-        price: "35€",
-        description: "A principal função do tratamento de gessoterapia é moldar o corpo potenciando o emagrecimento e perda de centímetros. pode ser utilizada nas diferentes partes do corpo."
     }
 ]
 
@@ -248,13 +248,14 @@ async function loadServices() {
                 <td>${service.price}</td>
                 <td>
                 <i class="fa" aria-hidden="false"></i>
-                </td>`
+                </td>
+            `
     
             const description = document.createElement("tr")
             description.innerHTML = `
-            <td colspan="6" id="collapse${index}" class="collapse acc" data-parent="#accordion">
-                <p>${service.description}</p>
-            </td>
+                <td colspan="6" id="collapse${index}" class="collapse acc" data-parent="#accordion">
+                    <p>${service.description}</p>
+                </td>
             `
             servicesDiv.appendChild(row)
             servicesDiv.appendChild(description)
