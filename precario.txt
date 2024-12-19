@@ -25,7 +25,7 @@ Description: A massagem de aromaterapia é uma massagem especial que utiliza ól
 Title: Massagem Refirmante
 Category: Tratamento Corporal
 Duration: 1h30m
-Price: 40€
+Price: 39€
 Description: A massagem refirmante é uma das técnicas empregues para manter a saúde da pele. Este método é indicado para pessoas que querem devolver à pele o seu aspeto firme. A ação deste tratamento consegue atenuar a flacidez, acumulada com o passar dos anos ou por oscilações bruscas de perda de peso.
 > 
 Title: Massagem Modeladora Pernas
@@ -37,7 +37,7 @@ Description: A gordura localizada geralmente se acumula nas coxas. Para eliminá
 Title: Massagem Modeladora
 Category: Tratamento Corporal
 Duration: 1h30m
-Price: 40€
+Price: 39€
 Description: A gordura localizada geralmente se acumula nas coxas, quadris e barriga. Para eliminá-la é preciso estimular o organismo e eliminá-las naturalmente. Este tratamento trata abdómen e pernas com esfoliação, ultra sons e rádio frequência, creme e massagem.
 > 
 Title: Massagem Redutora Abdominal                                               
@@ -49,13 +49,13 @@ Description: A massagem indicada para reduzir as medidas corporais, diminuir a r
 Title: Exfoliação Corporal
 Category: Tratamento Corporal
 Duration: 1h
-Price: 40€
+Price: 39€
 Description: A esfoliação é um tratamento feito com uma mistura de substâncias granulares misturadas ao creme ou óleo com o objetivo de limpar, renovar e hidratar a pele. Ela assegura a remoção da camada mais superficial onde estão as células mortas, o que deixa uma aparência mais suave e lisinha.
 > 
 Title: Massagem Choco Terapia
 Category: Tratamento Corporal
 Duration: 1h
-Price: 40€
+Price: 39€
 Description: Massagem à base de cacau e gordura de origem vegetal rica em flavonoides, que contribuem para uma boa circulação, ótimo aliado nos procedimentos anti celulite. Pernas e abdómen.
 > 
 Title: Drenagem Linfática Manual   

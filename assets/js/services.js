@@ -3,35 +3,35 @@ const services = [
         name: "Massagem Relaxante",
         category: "Tratamento de Corpo",
         duration: "1h",
-        price: "40€",
+        price: "39€",
         description: "A massagem de relaxamento é uma massagem profunda e relaxante, que restabelece o equilíbrio entre o corpo e a mente."
     },
     {
         name: "Massagem com Velas",
         category: "Tratamento de Corpo",
         duration: "1h",
-        price: "40€",
+        price: "39€",
         description: "Uma experiência holística que desperta os sentidos (visão, olfato, toque, audição e intuição), através duma vela, óleos vegetais e óleos essenciais, que sendo aquecidos, vão derretendo até ao ponto perfeito para a sua massagem. Morna, super hidratante e relaxante, esta massagem vai desfazer as tensões do dia-a-dia, libertando-o do stress enquanto lhe proporciona uma experiência fantástica de bem-estar."
     },
     {
         name: "Massagem com Aromaterapia",
         category: "Tratamento de Corpo",
         duration: "1h",
-        price: "40€",
+        price: "39€",
         description: "A massagem de aromaterapia é uma massagem especial que utiliza óleos essenciais 100% puros."
     },
     {
         name: "Massagem Relaxante com Pedras Quentes",
         category: "Tratamento de Corpo",
         duration: "1h",
-        price: "40€",
+        price: "39€",
         description: "A massagem com pedras quentes é uma massagem de relaxamento profundo, que utiliza pedras vulcânicas aquecidas para massajar o corpo, proporcionando uma sensação de bem-estar e relaxamento."
     },
     {
         name: "Massagem Refirmante",
         category: "Tratamento de Corpo",
         duration: "1h30m",
-        price: "40€",
+        price: "39€",
         description: "A massagem refirmante é uma das técnicas empregues para manter a saúde da pele. Este método é indicado para pessoas que querem devolver à pele o seu aspeto firme. A ação deste tratamento consegue atenuar a flacidez, acumulada com o passar dos anos ou por oscilações bruscas de perda de peso."
     },
     {
@@ -45,7 +45,7 @@ const services = [
         name: "Massagem Modeladora", 
         category: "Tratamento de Corpo",
         duration: "1h30m",
-        price: "40€",
+        price: "39€",
         description: "A gordura localizada geralmente se acumula nas coxas, quadris e barriga. Para eliminá-la é preciso estimular o organismo e eliminá-las naturalmente. Este tratamento trata abdómen e pernas com esfoliação, ultra sons e rádio frequência, creme e massagem."
     },
     {
@@ -59,14 +59,14 @@ const services = [
         name: "Exfoliação Corporal",
         category: "Tratamento de Corpo",
         duration: "1h",
-        price: "40€",
+        price: "39€",
         description: "A esfoliação é um tratamento feito com uma mistura de substâncias granulares misturadas ao creme ou óleo com o objetivo de limpar, renovar e hidratar a pele. Ela assegura a remoção da camada mais superficial onde estão as células mortas, o que deixa uma aparência mais suave e lisa."
     },
     {
         name: "Massagem Choco Terapia",
         category: "Tratamento de Corpo",
         duration: "1h",
-        price: "40€",
+        price: "39€",
         description: "Massagem à base de cacau e gordura de origem vegetal rica em flavonoides, que contribuem para uma boa circulação, ótimo aliado nos procedimentos anti-celulite. Pernas e abdómen."
     },
     {
@@ -108,7 +108,7 @@ const services = [
         name: "Cavitação, Radiofrequência e Vacuoterapia",
         category: "Tratamento de Corpo",
         duration: "1h",
-        price: "40€",
+        price: "39€",
         description: "Máxima eficiência que combina os vários tipos de Radiofrequência com ultra lipocavitação. Gordura localizada, redução de celulite e flacidez, linhas de expressão e rugas."
     },
     {
@@ -122,7 +122,7 @@ const services = [
         name: "Limpeza de Pele Profunda",
         category: "Tratamento de Rosto",
         duration: "1h30m",
-        price: "40€",
+        price: "39€",
         description: "Tratamento indicado para todos os tipos de pele que inicia-se com a remoção da maquilhagem, esfoliação para remoção das células mortas, tonificação e máscara hidratante, sendo aconselhável para qualquer idade. Termina com uma massagem que estimula a absorção do creme de conforto extremo para uma nutrição profunda da pele."
     },
     {
@@ -206,7 +206,7 @@ const services = [
         name: "Terapia de Bowen",
         category: "Terapias Holísticas",
         duration: "45m",
-        price: "40€",
+        price: "39€",
         description: "A terapia de Bowen é uma terapia manual neuro-estrutural que atua sobre o corpo, através de movimentos simples e precisos, de forma a promover o relaxamento das estruturas e assim aliviar os sintomas como sejam as dores musculares e articulares, inflamações, tendinites e outras queixas musculares, estruturais e viscerais com movimentos suaves de cruzamento de fibras, músculos e tendões favorecem também o fluxo sanguíneo, linfático e energético."
     },
     {
