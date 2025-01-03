@@ -188,7 +188,7 @@ Estética Pétalas de Lótus
             <div class="row">
                 <div class="col-lg-6 col-xs-12">
                     <div class="left-text-content">
-                        <p>Copyright &copy; 2024 Estética Pétalas de Lótus 
+                        <p>Copyright &copy; <span id="year"></span> Estética Pétalas de Lótus 
                         
                         - Design: <a rel="nofollow noopener" href="https://templatemo.com">TemplateMo</a></p>
                     </div>
@@ -245,6 +245,8 @@ Estética Pétalas de Lótus
         });
 
     </script>
-
+    <script>
+        document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
   </body>
 </html>
