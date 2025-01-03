@@ -456,12 +456,7 @@ header
 }
 
 @media (max-width: 1200px) {
-  .header-area .main-nav .nav .search-icon {
-    float: none;
-    width: 100%;
-    background-color: #fff;
-    margin-left: 0px;
-  }
+
   .header-area .main-nav .logo {
     font-size:18px;
     left:-60px;
@@ -471,14 +466,19 @@ header
     
   }
 
+  .header-area .main-nav .logo .title {
+    display:none;
+    
+  }
+
   .header-area .main-nav .logo #logo-img {
     margin-left:10px;
     width:70%;
     height: auto;
     vertical-align: middle;
-    
-   
+    filter: none!important;
   }
+
   .header-area .main-nav .nav .search-icon a {
     color:black;
     opacity:0.2;
