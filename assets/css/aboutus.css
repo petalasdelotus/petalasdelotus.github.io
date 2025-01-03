@@ -1,11 +1,6 @@
 
 .row .marcar .container {
     display: flex;
-    margin-left:1%;
-
-
-  
-   
 }
   
 .row .marcar .item {
@@ -15,18 +10,15 @@
     justify-content: center;
     align-items: center;
     width:20%;
-   
 }
   
 .item +  .item {
     margin-left: 2%;
 }
 
-
 .row .marcar .item p{
     margin-top: 2%;
     text-align: center;
-   
 }
 
 .row .marcar .item .about-us-name {
@@ -41,10 +33,7 @@
     margin-left: auto;
     margin-right: auto;
     display: block;
-   
 }
-
-
 
 @media screen and (min-width: 600px) { /*desktop*/
     .marcar h2 {

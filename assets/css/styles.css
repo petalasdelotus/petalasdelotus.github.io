@@ -132,12 +132,12 @@ body {
 }
 
 ::selection {
-  background: rgb(163, 247, 255);
-  color: #ff60c7;
+  background: #f9c9d9;
+  color: white;
 }
 
 ::-moz-selection {
-  background: #e75edc;
+  background: #f9c9d9;
   color: #fff;
 }
 
@@ -203,7 +203,7 @@ a.main-button-icon {
   font-size: 13px;
   border-radius: 25px;
   padding: 13px 25px;
-  background-color: #ff7eee;
+  background-color: #f9c9d9;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -235,7 +235,7 @@ button.main-button {
   padding: 10px 25px;
   background-color: #fff;
   text-transform: uppercase;
-  color: #b8379c;
+  color: #f9c9d9;
   font-weight: 600;
   letter-spacing: 1px;
   -webkit-transition: all 0.3s ease 0s;
@@ -246,7 +246,7 @@ button.main-button {
 
 button.main-button:hover {
   color: #fff;
-  background-color: #b636a5;
+  background-color: #f9c9d9;
 }
 
 button.main-button-icon {
@@ -299,7 +299,7 @@ a.text-button-icon i {
 }
 
 a.text-button-icon:hover {
-  color: #b8daff;
+  color: #ececec;
 }
 
 a.text-button-icon:hover i {
@@ -332,7 +332,7 @@ header
 */
 
 .background-header {
-  background-image:linear-gradient(to right,transparent 0%, rgba(199, 253, 255,0.8) 10%, rgba(255, 188, 255,0.8), rgba(241, 99, 211,0.8) 90%,transparent 100%);
+  background-color: #f9c9d9;
   height: 80px!important;
   position: fixed!important;
   top: 0px;
@@ -386,9 +386,12 @@ header
   transition: all 0.3s ease 0s;
 }
 
-
-
 .logo {
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2vh;
   line-height: 20px;
   position: relative;
   color: #fff;
@@ -404,7 +407,11 @@ header
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-} 
+}
+
+.logo:hover {
+  color: white;
+}
 
 .header-area .main-nav .nav {
   float: right;
@@ -439,6 +446,11 @@ header
   line-height: 40px;
 }
 
+#logo-img {
+  height: 50px;
+  width: auto;
+  filter: brightness(0) invert(1); /* white */
+}
 
 @media (max-width: 1200px) {
   .header-area .main-nav .nav .search-icon {
@@ -607,7 +619,7 @@ header
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #aceeff!important;
+  color: #ececec!important;
   opacity: 1;
 }
 
@@ -668,7 +680,7 @@ header
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #b8daff!important;
+  color: #ececec!important;
   padding-left: 25px;
 }
 
@@ -1054,7 +1066,7 @@ banner
 
 .scroll-down a {
   display: inline-block;
-  background-image: linear-gradient(145deg, #99f7fa 0%, #fd8de1 100%);
+  background-image: linear-gradient(145deg, #f9c9d9 0%, #fd8de1 100%);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   width: 60px;
   height: 60px;
@@ -1274,7 +1286,7 @@ subscribe
   padding: 80px 0px;
   background-position: center center;
   background-repeat: no-repeat;
-  background: linear-gradient(145deg,#196dce, rgb(71, 219, 224), rgb(255, 147, 255),#d33ce7);
+  background: linear-gradient(90deg,#eacdd7, #f9c9d9, #eb7da0);
   animation: gradient 15s ease infinite;
   background-size: 400% 400%;
   /* background-size: cover; */
@@ -1350,7 +1362,7 @@ testimonials
   padding: 120px 0px;
   background-position: center center;
   background-repeat: no-repeat;
-  background: linear-gradient(145deg,#196dce, rgb(71, 219, 224), rgb(255, 147, 255),#d33ce7);
+  background: linear-gradient(90deg,#eacdd7, #f9c9d9, #eb7da0);
   animation: gradient 15s ease infinite;
   background-size: 400% 400%;
   /* background-size: cover; */
@@ -1410,7 +1422,6 @@ testimonials
   top: 0;
   bottom: 0;
   width: 100%;
-  background-color: rgba(255, 138, 245, 0.584);
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.5s ease 0s;
@@ -1444,7 +1455,7 @@ testimonials
   text-align: center;
   line-height: 40px;
   font-size: 14px;
-  background-color: #9ce5eb87;
+  background-color: transparent;
   border-radius: 25px;
   color: white;
   -webkit-transition: all 0.3s ease 0s;
@@ -1455,7 +1466,7 @@ testimonials
 
 #testimonials .item .hover-effect ul li a:hover {
   color: white;
-  background-color: #ff80fb81;
+  background-color: #00000010;
 }
 
 #testimonials .owl-carousel {
@@ -1578,9 +1589,12 @@ contact
 #contactos .right-text-content {
   margin-left:35px;
   margin-top: 30px;
-  
-  
 }
+
+.contact-info img {
+  width: 30px;
+}
+
 
 /* 
 ---------------------------------------------
@@ -1590,7 +1604,7 @@ footer
 
 footer  {
   padding: 40px 0px;
-  background: linear-gradient(145deg, rgb(137, 251, 255) 0%, rgb(255, 147, 255) 100%);
+  background-color: #f9c9d9;
 }
 
 
@@ -1624,7 +1638,7 @@ footer .right-text-content ul li a {
   display: inline-block;
   text-align: center;
   line-height: 40px;
-  color: rgb(207, 132, 253);
+  color: #f9c9d9;
   margin-right: 5px;
   background-color: rgba(255, 255, 255, 0.445);
   border-radius: 50%;
@@ -1663,7 +1677,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-image: linear-gradient(145deg, #99f7fa 0%, #fd8de1 100%);
+  background-color: #f9c9d9;
   opacity: 0.7;
   left: 0;
   right: 0;
@@ -1861,7 +1875,7 @@ portfolio
 }
 #servicos .filters ul li.active,
 #servicos .filters ul li:hover {
-  color: #940b94;
+  color: #ffcada;
 }
 #servicos .filters-content {
   margin-top: 50px;

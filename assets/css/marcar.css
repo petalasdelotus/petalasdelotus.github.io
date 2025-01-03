@@ -39,7 +39,7 @@
 }
   
   body {
-    background: linear-gradient(-45deg, #e73c7e, #f381d3, #23a6d5, #23d2d5);
+    background: linear-gradient(90deg,#eacdd7, #f9c9d9, #eb7da0);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
   }
@@ -113,7 +113,7 @@
   }
   
   .marcar a:hover {
-    color: rgb(250, 149, 233);
+    color: #fad1dd;
     text-decoration: underline;
   }
   
