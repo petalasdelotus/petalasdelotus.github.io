@@ -714,7 +714,6 @@ header
 
 .row {
   justify-content: space-between; 
-
 }
 
 .header-area .main-nav .menu-trigger span,
@@ -1202,9 +1201,8 @@ about
   margin-top: 40px;
   text-align:right;
   float:right;
- 
+  margin-left: 40px;
 }
-
 
   @media only screen and (max-width: 767px) {
     #sobrenos .right-text-content {
