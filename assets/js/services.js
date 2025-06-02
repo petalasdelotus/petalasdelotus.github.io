@@ -1,149 +1,151 @@
 const services = [
     {
         name: "Massagem Relaxante",
-        category: "Tratamento de Corpo",
-        duration: "1h",
-        price: "39€",
+        category: "Cuidados de Corpo",
+        duration: "60m",
+        price: "38€",
         description: "A massagem de relaxamento é uma massagem profunda e relaxante, que restabelece o equilíbrio entre o corpo e a mente."
     },
     {
-        name: "Massagem com Velas",
-        category: "Tratamento de Corpo",
-        duration: "1h",
+        name: "Massagem com Vela Quente",
+        category: "Cuidados de Corpo",
+		
+		
+        duration: "60m",
         price: "39€",
         description: "Uma experiência holística que desperta os sentidos (visão, olfato, toque, audição e intuição), através duma vela, óleos vegetais e óleos essenciais, que sendo aquecidos, vão derretendo até ao ponto perfeito para a sua massagem. Morna, super hidratante e relaxante, esta massagem vai desfazer as tensões do dia-a-dia, libertando-o do stress enquanto lhe proporciona uma experiência fantástica de bem-estar."
     },
     {
         name: "Massagem com Aromaterapia",
-        category: "Tratamento de Corpo",
-        duration: "1h",
+        category: "Cuidados de Corpo",
+        duration: "60m",
         price: "39€",
-        description: "A massagem de aromaterapia é uma massagem especial que utiliza óleos essenciais 100% puros."
+        description: "A massagem de aromaterapia é uma massagem especial que utiliza óleos essenciais 100% puros e diluídos"
     },
     {
         name: "Massagem Relaxante com Pedras Quentes",
-        category: "Tratamento de Corpo",
-        duration: "1h",
+        category: "Cuidados de Corpo",
+        duration: "60m",
         price: "39€",
         description: "A massagem com pedras quentes é uma massagem de relaxamento profundo, que utiliza pedras vulcânicas aquecidas para massajar o corpo, proporcionando uma sensação de bem-estar e relaxamento."
     },
     {
         name: "Massagem Refirmante",
-        category: "Tratamento de Corpo",
-        duration: "1h30m",
+        category: "Cuidados de Corpo",
+        duration: "90m",
         price: "39€",
         description: "A massagem refirmante é uma das técnicas empregues para manter a saúde da pele. Este método é indicado para pessoas que querem devolver à pele o seu aspeto firme. A ação deste tratamento consegue atenuar a flacidez, acumulada com o passar dos anos ou por oscilações bruscas de perda de peso."
     },
     {
-        name: "Drenante",
-        category: "Tratamento de Corpo",
-        duration: "1h",
-        price: "30€",
+        name: "Massagem Drenante",
+        category: "Cuidados de Corpo",
+        duration: "60m",
+        price: "38€",
         description: "A gordura localizada geralmente se acumula nas coxas. Para eliminá-la é preciso estimular o organismo e eliminá-las naturalmente. Este tratamento trata apenas pernas com esfoliação, ultra sons e rádio frequência, creme e massagem."
     },
     {
         name: "Massagem Modeladora", 
-        category: "Tratamento de Corpo",
-        duration: "1h30m",
+        category: "Cuidados de Corpo",
+        duration: "90m",
         price: "39€",
-        description: "A gordura localizada geralmente se acumula nas coxas, quadris e barriga. Para eliminá-la é preciso estimular o organismo e eliminá-las naturalmente. Este tratamento trata abdómen e pernas com esfoliação, ultra sons e rádio frequência, creme e massagem."
+        description: "A gordura localizada geralmente se acumula nas coxas, quadris e barriga. Para eliminá-la é preciso estimular o organismo e eliminá-las naturalmente. Este tratamento trata abdómen e pernas."
     },
     {
         name: "Massagem Redutora Abdominal",
-        category: "Tratamento de Corpo",
-        duration: "1h",
+        category: "Cuidados de Corpo",
+        duration: "60m",
         price: "30€",
-        description: "A massagem indicada para reduzir as medidas corporais, diminuir a retenção de líquidos, reduzir a celulite e a gordura localizada. Este tratamento é apenas abdominal com ultra sons, creme e massagem."
+        description: "A massagem indicada para reduzir as medidas corporais, diminuir a retenção de líquidos, reduzir a celulite e a gordura localizada. Este tratamento é apenas abdominal."
     },
     {
         name: "Exfoliação Corporal",
-        category: "Tratamento de Corpo",
-        duration: "1h",
-        price: "39€",
-        description: "A esfoliação é um tratamento feito com uma mistura de substâncias granulares misturadas ao creme ou óleo com o objetivo de limpar, renovar e hidratar a pele. Ela assegura a remoção da camada mais superficial onde estão as células mortas, o que deixa uma aparência mais suave e lisa."
+        category: "Cuidados de Corpo",
+        duration: "60m",
+        price: "45€",
+        description: "A esfoliação é um tratamento feito com uma mistura de substâncias granulares misturadas ao creme ou óleo com o objetivo de limpar, renovar e hidratar a pele. Ela assegura a remoção da camada mais superficial onde estão as células mortas, o que deixa uma aparência mais suave e lisa. Tratamento com duche."
     },
     {
-        name: "Massagem Choco Terapia",
-        category: "Tratamento de Corpo",
-        duration: "1h",
+        name: "Massagem ChocoTerapia",
+        category: "Cuidados de Corpo",
+        duration: "60m",
         price: "39€",
         description: "Massagem à base de cacau e gordura de origem vegetal rica em flavonoides, que contribuem para uma boa circulação, ótimo aliado nos procedimentos anti-celulite. Pernas e abdómen."
     },
     {
         name: "Drenagem Linfática Manual",
-        category: "Tratamento de Corpo",
-        duration: "1h",
-        price: "30€",
+        category: "Cuidados de Corpo",
+        duration: "60m",
+        price: "38€",
         description: "A drenagem linfática manual é uma técnica de massagem que tem por objetivo estimular o sistema linfático - uma rede complexa de vasos que movem fluidos pelo corpo - a trabalhar de forma mais acelerada. O sistema linfático trabalha como uma terceira circulação, além da arterial e da venosa, e a linfa é o líquido que circula através dessa rede de vasos linfáticos."
     },
     {
         name: "Massagem para Crianças",
-        category: "Tratamento de Corpo",
+        category: "Cuidados de Corpo",
         duration: "30m",
         price: "A partir de 15€",
         description: "A massagem ajuda a acalmar e relaxar as crianças de hoje. Para trazer um grande alívio e prevenção de diversos males, a MASSAGEM aparece como uma alternativa natural e saudável."
     },
     {
         name: "Algoterapia",
-        category: "Tratamento de Corpo",
-        duration: "2h",
+        category: "Cuidados de Corpo",
+        duration: "120m",
         price: "65€",
         description: "São muitos os benefícios de um envolvimento corporal, começando pelo simples facto de ser uma das formas mais naturais de hidratar e melhorar o aspeto e a textura da pele. Corpo completo com esfoliação, duche e massagem. Este tratamento é acompanhado com manta térmica."
     },
     {
         name: "Chocoterapia",
-        category: "Tratamento de Corpo",
-        duration: "2h",
+        category: "Cuidados de Corpo",
+        duration: "120m",
         price: "65€",
         description: "Produto de tratamento que contém ingredientes cosméticos que permitem vivenciar a agradável experiência de sentir o corpo envolvido pela terapia do chocolate com efeito liporedutor e anti celulitico. Corpo completo com esfoliação, duche e massagem. Este tratamento é acompanhado com manta térmica."
     },
     {
         name: "Tratamento Corpo c/ Manta Térmica",
-        category: "Tratamento de Corpo",
-        duration: "2h",
+        category: "Cuidados de Corpo",
+        duration: "120m",
         price: "65€",
         description: "O tratamento com a manta de sudação térmica e aromaterapia é desintoxicante para o corpo e revitalizante para a mente! Ideal para quem necessita de desintoxicar, perder peso e ganhar energia. A manta térmica é um elemento indispensável para acabar com a celulite, reduzir medidas, emagrecimento e eliminar a gordura localizada."
     },
     {
         name: "Cavitação, Radiofrequência e Vacuoterapia",
-        category: "Tratamento de Corpo",
-        duration: "1h",
-        price: "39€",
+        category: "Cuidados de Corpo",
+        duration: "90m",
+        price: "38€",
         description: "Máxima eficiência que combina os vários tipos de Radiofrequência com ultra lipocavitação. Gordura localizada, redução de celulite e flacidez, linhas de expressão e rugas."
     },
     {
         name: "Gessoterapia",
-        category: "Tratamento de Corpo",
-        duration: "1h30m",
-        price: "35€",
+        category: "Cuidados de Corpo",
+        duration: "90m",
+        price: "38€",
         description: "A principal função do tratamento de gessoterapia é moldar o corpo potenciando o emagrecimento e perda de centímetros. pode ser utilizada nas diferentes partes do corpo."
     },
     {
         name: "Limpeza de Pele Profunda",
-        category: "Tratamento de Rosto",
-        duration: "1h30m",
+        category: "Cuidados de Rosto",
+        duration: "90m",
         price: "39€",
         description: "Tratamento indicado para todos os tipos de pele que inicia-se com a remoção da maquilhagem, esfoliação para remoção das células mortas, tonificação e máscara hidratante, sendo aconselhável para qualquer idade. Termina com uma massagem que estimula a absorção do creme de conforto extremo para uma nutrição profunda da pele."
     },
     {
         name: "Hidratação Facial",
-        category: "Tratamento de Rosto",
-        duration: "1h",
-        price: "20€",
+        category: "Cuidados de Rosto",
+        duration: "60m",
+        price: "22€",
         description: "Tratamento indicado para todos os tipos de pele que inicia-se com a remoção da maquilhagem, esfoliação para remoção das células mortas, tonificação e máscara hidratante, sendo aconselhável para qualquer idade. Termina com uma massagem que estimula a absorção do creme de conforto extremo para uma nutrição profunda da pele."
     },
     {
         name: "Máscara de Argila",
-        category: "Tratamento de Rosto",
-        duration: "1h",
-        price: "20€",
+        category: "Cuidados de Rosto",
+        duration: "60m",
+        price: "22€",
         description: "Apesar de existirem vários tipos, todas têm a capacidade de desintoxicar e de eliminar o excesso de óleo e impurezas da pele. As argilas são ricas em minerais que rejuvenescem a pele e a sua textura esfolia e estimula a microcirculação da pele."
     },
     {
         name: "Máscara de LED",
         category: "Tratamento de Rosto",
-        duration: "1h",
-        price: "20€",
+        duration: "45m",
+        price: "22€",
         description: "Após uma limpeza com sabonete e máscara específica para cada tipo de pele, o led é aplicado no rosto, através de combinações de cores que têm efeitos distintos. Alguns exemplos: Led azul: tem efeito bactericida. Trata a acne Led amarelo: estimula o colágeno, a elastina Led Vermelho: tem efeito anti-inflamatório, cicatrizante Led Verde: Atua nas manchas senis e na hiperpigmentação Led Branco: Ativa a circulação sanguínea e linfática."
     },
     {
@@ -151,7 +153,7 @@ const services = [
         category: "Depilação/Epilação",
         duration: "Variável",
         price: "Variável",
-        description: "A depilação a laser é um dos métodos mais eficazes para eliminar os pelos de forma definitiva e sem dor."
+        description: "A depilação a laser tripla onda. Os 3 comprimentos de onda em apenas 1 disparo, permite que o laser atinja uma maior profundidade dos folículos pilosos, sendo mais rápido nos resultados e mais eficaz. É indicado para os vários biótipos de pele e de pelo (pelo fino/pelo grosso e pelo claro/pelo escuro e pele clara/pele escura)."
     },
     {
         name: "Epilação com Cera",
@@ -178,7 +180,7 @@ const services = [
         name: "Gel sobre Unhas",
         category: "Manicure/Pedicure",
         duration: "Variável",
-        price: "21€",
+        price: "22€",
         description: "O gel sobre unhas é uma técnica que permite alongar as unhas naturais, dando-lhes um aspeto mais bonito e uniforme."
     },
     {
@@ -192,7 +194,7 @@ const services = [
         name: "Pedicure",
         category: "Manicure/Pedicure",
         duration: "Variável",
-        price: "17€",
+        price: "18€",
         description: "A pedicure é um tratamento estético que consiste em cuidar dos pés e das unhas, retirando as cutículas, lixando as unhas e hidratando os pés."
     },
     {
