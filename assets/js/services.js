@@ -9,8 +9,6 @@ const services = [
     {
         name: "Massagem com Vela Quente",
         category: "Cuidados de Corpo",
-		
-		
         duration: "60m",
         price: "39€",
         description: "Uma experiência holística que desperta os sentidos (visão, olfato, toque, audição e intuição), através duma vela, óleos vegetais e óleos essenciais, que sendo aquecidos, vão derretendo até ao ponto perfeito para a sua massagem. Morna, super hidratante e relaxante, esta massagem vai desfazer as tensões do dia-a-dia, libertando-o do stress enquanto lhe proporciona uma experiência fantástica de bem-estar."
@@ -203,13 +201,6 @@ const services = [
         duration: "Variável",
         price: "35€",
         description: "O Reiki é uma terapia alternativa, destinada a equilibrar a energia vital do corpo, alma e espírito. Indicada para combater stress, dores, distúrbios emocionais e doenças, com resultados eficientes. Terapeuta Holística e Mestre de Reiki."
-    },
-    {
-        name: "Terapia de Bowen",
-        category: "Terapias Holísticas",
-        duration: "45m",
-        price: "39€",
-        description: "A terapia de Bowen é uma terapia manual neuro-estrutural que atua sobre o corpo, através de movimentos simples e precisos, de forma a promover o relaxamento das estruturas e assim aliviar os sintomas como sejam as dores musculares e articulares, inflamações, tendinites e outras queixas musculares, estruturais e viscerais com movimentos suaves de cruzamento de fibras, músculos e tendões favorecem também o fluxo sanguíneo, linfático e energético."
     },
     {
         name: "Detox - Desintoxicação do Organismo",
