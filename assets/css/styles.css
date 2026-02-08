@@ -132,12 +132,12 @@ body {
 }
 
 ::selection {
-  background: #f9c9d9;
+  background: #f5a0bc;
   color: white;
 }
 
 ::-moz-selection {
-  background: #f9c9d9;
+  background: #f5a0bc;
   color: #fff;
 }
 
@@ -203,7 +203,7 @@ a.main-button-icon {
   font-size: 13px;
   border-radius: 25px;
   padding: 13px 25px;
-  background-color: #f9c9d9;
+  background-color: #f5a0bc;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -235,7 +235,7 @@ button.main-button {
   padding: 10px 25px;
   background-color: #fff;
   text-transform: uppercase;
-  color: #f9c9d9;
+  color: #f5a0bc;
   font-weight: 600;
   letter-spacing: 1px;
   -webkit-transition: all 0.3s ease 0s;
@@ -246,7 +246,7 @@ button.main-button {
 
 button.main-button:hover {
   color: #fff;
-  background-color: #f9c9d9;
+  background-color: #f5a0bc;
 }
 
 button.main-button-icon {
@@ -332,7 +332,7 @@ header
 */
 
 .background-header {
-  background-color: #f9c9d9;
+  background-color: #f5a0bc;
   height: 80px!important;
   position: fixed!important;
   top: 0px;
@@ -1068,7 +1068,7 @@ banner
 
 .scroll-down a {
   display: inline-block;
-  background-color: #f9c9d9;
+  background-color: #f5a0bc;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   width: 60px;
   height: 60px;
@@ -1253,10 +1253,19 @@ features
 
 .features-item .features-icon {
   float: left;
+  margin-right: 10px;
+  width: 80px;
+  height: 80px;
+}
+
+.features-item .features-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 #features .features-content {
-  margin-left: 75px;
+  margin-left: 90px;
 }
 
 .features-item .features-content h4 {
@@ -1286,10 +1295,10 @@ subscribe
 */
 
 #subscribe {
-  padding: 80px 0px;
+  padding-top: 80px;
   background-position: center center;
   background-repeat: no-repeat;
-  background: linear-gradient(90deg,#eacdd7, #f9c9d9, #eb7da0);
+  background: linear-gradient(90deg,#eba3bb, #eb7da0, #d66186);
   animation: gradient 15s ease infinite;
   background-size: 400% 400%;
   /* background-size: cover; */
@@ -1313,6 +1322,14 @@ subscribe
   text-align: center;
   color: #fff;
   margin-bottom: 25px;
+}
+
+#subscribe .section-heading a {
+  color: #fff;
+}
+
+#subscribe .section-heading a:hover {
+  text-decoration: underline!important;
 }
 
 #subscribe p {
@@ -1360,16 +1377,13 @@ testimonials
 --------------------------------------------
 */
 #testimonials {
-  /* margin-top: 120px; */
-  padding: 80px 0px;
-  padding: 120px 0px;
+  padding-top: 40px;
+  padding-bottom: 80px;
   background-position: center center;
   background-repeat: no-repeat;
-  background: linear-gradient(90deg,#eacdd7, #f9c9d9, #eb7da0);
+  background: linear-gradient(90deg,#eba3bb, #eb7da0, #d66186);
   animation: gradient 15s ease infinite;
   background-size: 400% 400%;
-  /* background-size: cover; */
-
 }
   @keyframes gradient {
     0% {
@@ -1607,7 +1621,7 @@ footer
 
 footer  {
   padding: 40px 0px;
-  background-color: #f9c9d9;
+  background-color: #f5a0bc;
 }
 
 
@@ -1641,7 +1655,7 @@ footer .right-text-content ul li a {
   display: inline-block;
   text-align: center;
   line-height: 40px;
-  color: #f9c9d9;
+  color: #f5a0bc;
   margin-right: 5px;
   background-color: rgba(255, 255, 255, 0.445);
   border-radius: 50%;
@@ -1680,7 +1694,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-color: #f9c9d9;
+  background-color: #f5a0bc;
   opacity: 0.7;
   left: 0;
   right: 0;
