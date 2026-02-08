@@ -56,14 +56,14 @@ const services = [
         description: "A massagem indicada para reduzir as medidas corporais, diminuir a retenção de líquidos, reduzir a celulite e a gordura localizada. Este tratamento é apenas abdominal."
     },
     {
-        name: "Exfoliação Corporal",
+        name: "Esfoliação Corporal",
         category: "Cuidados de Corpo",
         duration: "60m",
         price: "45€",
         description: "A esfoliação é um tratamento feito com uma mistura de substâncias granulares misturadas ao creme ou óleo com o objetivo de limpar, renovar e hidratar a pele. Ela assegura a remoção da camada mais superficial onde estão as células mortas, o que deixa uma aparência mais suave e lisa. Tratamento com duche."
     },
     {
-        name: "Massagem ChocoTerapia",
+        name: "Massagem Chocoterapia",
         category: "Cuidados de Corpo",
         duration: "60m",
         price: "39€",
@@ -147,22 +147,22 @@ const services = [
         description: "Após uma limpeza com sabonete e máscara específica para cada tipo de pele, o led é aplicado no rosto, através de combinações de cores que têm efeitos distintos. Alguns exemplos: Led azul: tem efeito bactericida. Trata a acne Led amarelo: estimula o colágeno, a elastina Led Vermelho: tem efeito anti-inflamatório, cicatrizante Led Verde: Atua nas manchas senis e na hiperpigmentação Led Branco: Ativa a circulação sanguínea e linfática."
     },
     {
-        name: "Depilação a Laser",
-        category: "Depilação/Epilação",
+        name: "Epilação a Laser",
+        category: "Epilação",
         duration: "Variável",
         price: "Variável",
-        description: "A depilação a laser tripla onda. Os 3 comprimentos de onda em apenas 1 disparo, permite que o laser atinja uma maior profundidade dos folículos pilosos, sendo mais rápido nos resultados e mais eficaz. É indicado para os vários biótipos de pele e de pelo (pelo fino/pelo grosso e pelo claro/pelo escuro e pele clara/pele escura)."
+        description: "A depilação a laser tripla onda. Os 3 comprimentos de onda em apenas 1 disparo, permite que o laser atinja uma maior profundidade dos folículos pilosos, sendo mais rápido nos resultados e mais eficaz. É indicado para os vários biótipos de pele e de pelo (pelo fino/pelo grosso e pelo claro/pelo escuro e pele clara/pele escura).<hr />Buço: 10€ | Rosto: 20€ | Axilas: 20€ | Virilha: 25€ | Meia perna inferior: 25€ | Meia perna superior: 30€ | Pernas completas: 45€ | Braços: 35€ | Costas: 35€ | Glúteos: 30€ | Linha alba: 15€ | Mãos/pés: 10€"
     },
     {
         name: "Epilação com Cera",
-        category: "Depilação/Epilação",
+        category: "Epilação",
         duration: "Variável",
         price: "Variável",
         description: "Todas gostamos da sensação de uma pele lisa e sem pelos e para isso existem vários métodos de depilação. Apesar de não ser um método permanente, a depilação com cera é um método rápido e eficaz."
     },
     {
         name: "Epilação das Sobrancelhas",
-        category: "Depilação/Epilação",
+        category: "Epilação",
         duration: "Variável",
         price: "Variável",
         description: "Epilação das sobrancelhas com pinça e cera."
@@ -194,13 +194,6 @@ const services = [
         duration: "Variável",
         price: "18€",
         description: "A pedicure é um tratamento estético que consiste em cuidar dos pés e das unhas, retirando as cutículas, lixando as unhas e hidratando os pés."
-    },
-    {
-        name: "Terapia de Reiki",
-        category: "Terapias Holísticas",
-        duration: "Variável",
-        price: "35€",
-        description: "O Reiki é uma terapia alternativa, destinada a equilibrar a energia vital do corpo, alma e espírito. Indicada para combater stress, dores, distúrbios emocionais e doenças, com resultados eficientes. Terapeuta Holística e Mestre de Reiki."
     },
     {
         name: "Detox - Desintoxicação do Organismo",
