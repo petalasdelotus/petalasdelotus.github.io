@@ -1665,6 +1665,15 @@ footer .right-text-content ul li a {
   transition: all 0.3s ease 0s;
 } 
 
+footer .right-text-content ul li a .buk-icon {
+  font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
 footer ul li a {
   color:white;
 }
