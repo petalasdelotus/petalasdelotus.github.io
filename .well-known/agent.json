@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BeautySalon",
+  "name": "Estética Pétalas de Lótus",
+  "url": "https://esteticapetalasdelotus.com/",
+  "description": "Centro de estética e bem-estar em Alenquer, Portugal, com serviços de massagem, estética facial e corporal, depilação a laser, manicure e pedicure.",
+  "inLanguage": [
+    "pt-PT"
+  ],
+  "telephone": [
+    "+351910062774",
+    "+351914801416"
+  ],
+  "email": "ceplotus.alenquer@gmail.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rua Sacadura Cabral Nº54 1ºD",
+    "postalCode": "2580-371",
+    "addressLocality": "Alenquer",
+    "addressCountry": "PT"
+  },
+  "openingHours": [
+    "Mo-Fr 10:00-19:00",
+    "Sa 10:00-13:00"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/esteticapetalaslotus",
+    "https://fb.com/EsteticaPetalasLotus",
+    "https://buk.pt/centro-de-estetica-petalas-de-lotus"
+  ],
+  "potentialAction": [
+    {
+      "@type": "ReserveAction",
+      "target": "https://buk.pt/centro-de-estetica-petalas-de-lotus",
+      "name": "Marcar online"
+    },
+    {
+      "@type": "CommunicateAction",
+      "target": "mailto:ceplotus.alenquer@gmail.com",
+      "name": "Enviar email"
+    },
+    {
+      "@type": "CommunicateAction",
+      "target": "tel:+351910062774",
+      "name": "Ligar para o centro"
+    }
+  ],
+  "subjectOf": [
+    {
+      "@type": "WebPage",
+      "name": "Serviços",
+      "url": "https://esteticapetalasdelotus.com/servicos"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Marcações",
+      "url": "https://esteticapetalasdelotus.com/marcacoes"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Dúvidas frequentes",
+      "url": "https://esteticapetalasdelotus.com/duvidas"
+    }
+  ]
+}

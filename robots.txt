@@ -1,0 +1,73 @@
+User-agent: *
+Allow: /
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /prepros-6.config
+Disallow: /assets/fonts/
+Disallow: /assets/js/
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+User-agent: GPTBot
+Allow: /
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /prepros-6.config
+Disallow: /assets/fonts/
+Disallow: /assets/js/
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /prepros-6.config
+Disallow: /assets/fonts/
+Disallow: /assets/js/
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /prepros-6.config
+Disallow: /assets/fonts/
+Disallow: /assets/js/
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /prepros-6.config
+Disallow: /assets/fonts/
+Disallow: /assets/js/
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /prepros-6.config
+Disallow: /assets/fonts/
+Disallow: /assets/js/
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /prepros-6.config
+Disallow: /assets/fonts/
+Disallow: /assets/js/
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /prepros-6.config
+Disallow: /assets/fonts/
+Disallow: /assets/js/
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+Sitemap: https://esteticapetalasdelotus.com/sitemap.xml
