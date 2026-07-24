@@ -105,7 +105,7 @@ const services = [
         description: "O tratamento com a manta de sudação térmica e aromaterapia é desintoxicante para o corpo e revitalizante para a mente! Ideal para quem necessita de desintoxicar, perder peso e ganhar energia. A manta térmica é um elemento indispensável para acabar com a celulite, reduzir medidas, emagrecimento e eliminar a gordura localizada."
     },
     {
-        name: "Cavitação, Radiofrequência e Vacuoterapia",
+        name: "Cavitação e Radiofrequência",
         category: "Cuidados de Corpo",
         duration: "90m",
         price: "38€",
