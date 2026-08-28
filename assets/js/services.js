@@ -140,6 +140,13 @@ const services = [
         description: "Todas gostamos da sensação de uma pele lisa e sem pelos e para isso existem vários métodos de depilação. Apesar de não ser um método permanente, a depilação com cera é um método rápido e eficaz. <hr />Buço: 4,50€ | Sobrancelhas: 5€ | Rosto: 11,50€ | Axilas: 7,50€ | Virilha normal: 7,5€ | Virilha completa: 18€ | Meia perna: 9,50€ | Pernas completas: 19,50€ | Braços completos: 9,50€ | Costas: 9,50€"
     },
     {
+        name: "Manicure Tradicional",
+        category: "Manicure/Pedicure",
+        duration: "Variável",
+        price: "8€",
+        description: "A manicure tradicional cuida das suas unhas com todo o detalhe, deixando as mãos cuidadas e elegantes."
+    },
+    {
         name: "Verniz de Gel",
         category: "Manicure/Pedicure",
         duration: "Variável",
