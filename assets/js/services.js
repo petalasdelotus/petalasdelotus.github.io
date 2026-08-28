@@ -1,10 +1,17 @@
 const services = [
     {
+        name: "Massagem Relaxante Premium",
+        category: "Cuidados de Corpo",
+        duration: "90m",
+        price: "60€",
+        description: "Uma experiência exclusiva de bem-estar, personalizada às necessidades de cada cliente. Combina técnicas de relaxamento para aliviar a tensão muscular, reduzir o stress, melhorar a circulação e proporcionar um profundo estado de relaxamento, equilíbrio e renovação do corpo e da mente. Marquesa aquecida (no inverno) Escala pés relaxante Óleo de massagem aquecido/ óleo essencial Creme terapêutico Drenagem linfática manual Reflexologia mãos e pés Música ambiente"
+    },
+    {
         name: "Massagem Relaxante",
         category: "Cuidados de Corpo",
         duration: "60m",
         price: "38€",
-        description: "A massagem de relaxamento é uma massagem profunda e relaxante, que restabelece o equilíbrio entre o corpo e a mente."
+        description: "A massagem de relaxamento é uma massagem profunda e relaxante, que restabelece o equilíbrio entre o corpo e a mente. Marquesa aquecida no tempo frio."
     },
     {
         name: "Massagem com Vela Quente",
@@ -140,17 +147,17 @@ const services = [
         description: "O verniz de gel é uma técnica que permite que o verniz dure mais tempo nas unhas, sem lascar ou perder o brilho."
     },
     {
-        name: "Gel sobre Unhas",
+        name: "Gel sobre Unhas (3 Tamanhos)",
         category: "Manicure/Pedicure",
         duration: "Variável",
-        price: "25€",
+        price: "21€ | 22€ | 24€",
         description: "O gel sobre unhas é uma técnica que permite alongar as unhas naturais, dando-lhes um aspeto mais bonito e uniforme."
     },
     {
         name: "Unhas com Extensão",
         category: "Manicure/Pedicure",
         duration: "Variável",
-        price: "25€",
+        price: "35€",
         description: "As unhas com extensão são uma técnica que permite alongar as unhas naturais, dando-lhes um aspeto mais bonito e uniforme."
     },
     {
@@ -159,6 +166,20 @@ const services = [
         duration: "Variável",
         price: "20€",
         description: "A pedicure é um tratamento estético que consiste em cuidar dos pés e das unhas, retirando as cutículas, lixando as unhas e hidratando os pés."
+    },
+    {
+        name: "Pedicure com Gelinho",
+        category: "Manicure/Pedicure",
+        duration: "Variável",
+        price: "28€",
+        description: "A pedicure é um tratamento estético que consiste em cuidar dos pés e das unhas, retirando as cutículas, lixando as unhas e hidratando os pés."
+    },
+    {
+        name: "Spa de Pés",
+        category: "Manicure/Pedicure",
+        duration: "Variável",
+        price: "35€",
+        description: "Massagem com vela, parafina e escalda pés."
     },
     {
         name: "Detox - Desintoxicação do Organismo",
